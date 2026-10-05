@@ -8,8 +8,8 @@ export const SITE = {
   address: 'Kalikanagar-9, Butwal, Rupandehi, Nepal',
   mapEmbed: 'https://www.google.com/maps?q=27.6840286,83.4624813&z=17&output=embed',
   mapLink:
-    "https://www.google.com/maps/place/Daddy's+Kitchen+The+cafe+and+Restaurant/@27.6850927,83.4623418,18z/data=!4m6!3m5!1s0x3996867dc6176477:0xf5eb8652b2f15812!8m2!3d27.6840286!4d83.4624813!16s%2Fg%2F11dfh3y8qt",
-  mapsName: "Daddy's Kitchen - The Cafe & Restaurant",
+    "https://www.google.com/maps/place/Daddy's+Cake+The+Bakery+and+Cafe/@27.6850927,83.4623418,18z/data=!4m6!3m5!1s0x3996867dc6176477:0xf5eb8652b2f15812!8m2!3d27.6840286!4d83.4624813!16s%2Fg%2F11dfh3y8qt",
+  mapsName: "Daddy's Cake - The Bakery & Cafe",
   openHour: 7,
   closeHour: 21,
   hoursLabel: '7:00 AM – 9:00 PM',
